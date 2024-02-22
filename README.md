@@ -1,4 +1,4 @@
-# convo
+# ChatApp
 
 A new Flutter project.
 
